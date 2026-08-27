@@ -1,0 +1,139 @@
+{
+  "courses": [
+    {
+      "_id": "69a32551bc2e6f9a4d31a6c7",
+      "code": "7467674",
+      "name": "Compiler Design",
+      "faculty": "AK Bhoi",
+      "credits": 3,
+      "department": "Computer Science & Engineering",
+      "semester": "5",
+      "color": "bg-purple-500",
+      "lightColor": "bg-purple-500/10",
+      "textColor": "text-purple-500",
+      "createdAt": "2026-02-28T17:26:41.717Z",
+      "updatedAt": "2026-02-28T17:27:20.374Z",
+      "__v": 0
+    },
+    {
+      "_id": "69a44320634d1f20af4c671e",
+      "code": "7467674",
+      "name": "Compiler Design",
+      "faculty": "Ad bhoi",
+      "credits": 4,
+      "department": "CSE",
+      "semester": "6",
+      "color": "bg-blue-500",
+      "lightColor": "bg-blue-500/10",
+      "textColor": "text-blue-500",
+      "createdAt": "2026-03-01T13:46:08.495Z",
+      "updatedAt": "2026-03-01T13:46:08.495Z",
+      "__v": 0
+    },
+    {
+      "_id": "69a447928ebaac4393c6287b",
+      "code": "7467674",
+      "name": "Compiler Design",
+      "faculty": "Ad bhoi",
+      "credits": 4,
+      "department": "Computer Science & Engineering",
+      "semester": "6",
+      "color": "bg-blue-500",
+      "lightColor": "bg-blue-500/10",
+      "textColor": "text-blue-500",
+      "createdAt": "2026-03-01T14:05:06.117Z",
+      "updatedAt": "2026-03-01T14:05:06.117Z",
+      "__v": 0
+    }
+  ],
+  "users": [
+    {
+      "_id": "69a1ea1c551f73ab616cd841",
+      "fullName": "Chhayakanta Maharana",
+      "email": "chhayakantamaharan@gmail.com",
+      "password": "$2b$10$c4TM58Q8NbCfQTAvdKJuaOXLYrgXzIaVBa272qgZUN/D8ZtGTVcQG",
+      "role": "Faculty",
+      "isApproved": false,
+      "isLoggedIn": true,
+      "isVerified": true,
+      "assignedRole": "TimeTable Management",
+      "portalAccess": true,
+      "teachingAssignments": [
+        {
+          "subject": "COA",
+          "semester": "5th",
+          "branch": "CSE",
+          "_id": "69a1ec74551f73ab616cd84e"
+        }
+      ],
+      "createdAt": "2026-02-27T19:01:48.824Z",
+      "updatedAt": "2026-03-01T06:17:58.098Z",
+      "__v": 1,
+      "lastLogin": "2026-03-01T06:17:58.096Z"
+    },
+    {
+      "_id": "69a30042116a42050ae6d025",
+      "fullName": "Gopal Behera",
+      "email": "chhayakantamaharana8260@gcekbpatna.ac.in",
+      "password": "$2b$10$fLs6ueBnj7aC6IdceaSIBOI2B8CMp5ykSldIBepSHo6X21p6pthgm",
+      "role": "HOD",
+      "isApproved": false,
+      "isLoggedIn": true,
+      "isVerified": true,
+      "assignedRole": "None",
+      "department": "CSE",
+      "portalAccess": true,
+      "teachingAssignments": [],
+      "createdAt": "2026-02-28T14:48:34.004Z",
+      "updatedAt": "2026-03-01T13:45:43.740Z",
+      "__v": 0,
+      "lastLogin": "2026-03-01T13:45:43.737Z"
+    },
+    {
+      "_id": "69a3da8de80c8bdb1feb7537",
+      "fullName": "Dr. Itishree Gouda",
+      "email": "gsagarkanta@gmail.com",
+      "password": "$2b$10$JQL2eULHgZMSrfCoRGEeMe8AVDnlbTIMDiE4auoBCbrRhMWno91Eq",
+      "role": "Faculty",
+      "isApproved": false,
+      "isLoggedIn": true,
+      "isVerified": true,
+      "assignedRole": "",
+      "department": "Mechanical",
+      "portalAccess": true,
+      "teachingAssignments": [
+        {
+          "subject": "gtg",
+          "semester": "6",
+          "branch": "gygfv",
+          "_id": "69a3dda7e80c8bdb1feb76b2"
+        }
+      ],
+      "createdAt": "2026-03-01T06:19:57.185Z",
+      "updatedAt": "2026-03-01T06:34:21.138Z",
+      "__v": 4,
+      "lastLogin": "2026-03-01T06:34:21.136Z",
+      "designation": "Sagarkanta Wife",
+      "qualification": "Phd in Sagarkanta and relationship with him"
+    },
+    {
+      "_id": "69a43e6de23d96616e955571",
+      "fullName": "Rajendra",
+      "email": "chhayakantmaharana@gmail.com",
+      "password": "$2b$10$sqSw3ctHTDtYNJokyIFw/OjP4J2DTBblh.m2IYyulbfKrc1WzS/Pm",
+      "role": "Student",
+      "isApproved": false,
+      "isLoggedIn": true,
+      "isVerified": true,
+      "assignedRole": "None",
+      "department": "CSE",
+      "semester": "6",
+      "portalAccess": true,
+      "teachingAssignments": [],
+      "createdAt": "2026-03-01T13:26:05.046Z",
+      "updatedAt": "2026-03-01T14:07:18.251Z",
+      "__v": 0,
+      "lastLogin": "2026-03-01T14:07:18.250Z"
+    }
+  ]
+}

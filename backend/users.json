@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "69a1ea1c551f73ab616cd841",
+    "fullName": "Chhayakanta Maharana",
+    "email": "chhayakantamaharan@gmail.com",
+    "password": "$2b$10$c4TM58Q8NbCfQTAvdKJuaOXLYrgXzIaVBa272qgZUN/D8ZtGTVcQG",
+    "role": "Faculty",
+    "isApproved": false,
+    "isLoggedIn": true,
+    "isVerified": true,
+    "assignedRole": "TimeTable Management",
+    "portalAccess": true,
+    "teachingAssignments": [
+      {
+        "subject": "COA",
+        "semester": "5th",
+        "branch": "CSE",
+        "_id": "69a1ec74551f73ab616cd84e"
+      }
+    ],
+    "createdAt": "2026-02-27T19:01:48.824Z",
+    "updatedAt": "2026-02-27T19:20:59.334Z",
+    "__v": 1,
+    "lastLogin": "2026-02-27T19:20:59.332Z"
+  }
+]
